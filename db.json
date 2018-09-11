@@ -1,12 +1,58 @@
 {
    "stmafiles": [
-     {
-      "title": "Titel 4",
-      "category": "Übungen",
-      "prof": "Prof 4",
-      "links": [{"title": "Dokument 3", "link": "#click 3"}],
-      "description": "Beschreibung und ach",
-      "semester": "WS 14/15"
-     }
+      {
+         "title": "Titel 1",
+         "category": "Klausuren",
+         "prof": "Prof 4",
+         "links": [{"title": "Dokument 3", "link": "#click 3"}],
+         "description": "Beschreibung und ach",
+         "semester": "WS 14/15",
+         "date": "2005-06-27"
+        },
+        {
+         "title": "Titel 2",
+         "category": "Klausuren",
+         "prof": "Prof 4",
+         "links": [{"title": "Dokument 3", "link": "#click 3"}],
+         "description": "Beschreibung und ach",
+         "semester": "SS 2015",
+         "date": "2022-01-14"
+        },
+        {
+         "title": "Titel 3",
+         "category": "Klausuren",
+         "prof": "Prof 4",
+         "links": [{"title": "Dokument 3", "link": "#click 3"}],
+         "description": "Beschreibung und ach",
+         "semester": "WS 14/15",
+         "date": "2000-04-28"
+        },
+        {
+         "title": "Titel 4",
+         "category": "Übungen",
+         "prof": "Prof 4",
+         "links": [{"title": "Dokument 3", "link": "#click 3"}, {"title": "Lösung 3", "link": "#click lsg 3"}],
+         "description": "Beschreibung und ach",
+         "semester": "WS 14/15",
+         "date": "2015-07-30"
+        },
+        {
+         "title": "Titel 8",
+         "category": "Übungen",
+         "prof": "Prof 4",
+         "links": [{"title": "Dokument 3", "link": "#click 3"}, {"title": "Lösung 3", "link": "#click lsg 3"}],
+         "description": "Beschreibung und ach",
+         "semester": "WS 15/16",
+         "date": "2023-12-06"
+        },
+        {
+         "title": "Titel 9",
+         "category": "Übungen",
+         "prof": "Prof 4",
+         "links": [{"title": "Dokument 3", "link": "#click 3"}, {"title": "Lösung 3", "link": "#click lsg 3"}],
+         "description": "Beschreibung und ach",
+         "semester": "WS 14/15",
+         "date": "2017-07-07"
+        }
    ]
  }
