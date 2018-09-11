@@ -1,5 +1,12 @@
-[
-  {
-    name: test
-  }
-]
+{
+   "stmafiles": [
+     {
+      "title": "Titel 4",
+      "category": "Übungen",
+      "prof": "Prof 4",
+      "links": [{"title": "Dokument 3", "link": "#click 3"}],
+      "description": "Beschreibung und ach",
+      "semester": "WS 14/15"
+     }
+   ]
+ }
