@@ -57,9 +57,99 @@
    ],
    "stmacats": [
       {
-         "category": "Basismodul",
+         "category": "Basismodule",
          "id": "B-M2",
          "title": "Mathematik 2"
-      }
+      },
+      {
+         "category": "Basismodule",
+         "id": "B-M1",
+         "title": "Mathematik 1"
+      },
+      {
+         "category": "Basismodule",
+         "id": "B-M3",
+         "title": "Mathematik 3"
+      },
+      {
+         "category": "Basismodule",
+         "id": "B-PRG",
+         "title": "Einführung in die Programmierung"
+      },
+      {
+         "category": "Vertiefungsmodule",
+         "id": "B-VS",
+         "title": "Verteilte Systeme"
+      },
+      {
+         "category": "Vertiefungsmodule",
+         "id": "B-HPC",
+         "title": "Hochleistungsrechner"
+      },
+      {
+         "category": "Vertiefungsmodule",
+         "id": "B-DB1",
+         "title": "Datenbanksysteme 1"
+      },
+      {
+         "category": "Anwendungsfach VWL",
+         "id": "OVWL",
+         "title": "Einführung in die VWL"
+      },
+      {
+         "category": "Anwendungsfach VWL",
+         "id": "BMIK",
+         "title": "Mikroökonomie 1"
+      },
+      {
+         "category": "Anwendungsfach VWL",
+         "id": "WINF",
+         "title": "Elemente der Wirtschaftsinformatik"
+      },
+      {
+         "category": "Anwendungsfach VWL",
+         "id": "BMIK",
+         "title": "Mikroökonomie 1"
+      },
+      {
+         "category": "Anwendungsfach VWL",
+         "id": "BMIK",
+         "title": "Mikroökonomie 1"
+      },
+      {
+         "category": "Anwendungsfach VWL",
+         "id": "BMIK",
+         "title": "Mikroökonomie 1"
+      },
+      {
+         "category": "Anwendungsfach VWL",
+         "id": "BMIK",
+         "title": "Mikroökonomie 1"
+      },
+      {
+         "category": "Anwendungsfach VWL",
+         "id": "BMIK",
+         "title": "Mikroökonomie 1"
+      },
+      {
+         "category": "Anwendungsfach VWL",
+         "id": "BMIK",
+         "title": "Mikroökonomie 1"
+      },
+      {
+         "category": "Anwendungsfach VWL",
+         "id": "BMIK",
+         "title": "Mikroökonomie 1"
+      },
+      {
+         "category": "Anwendungsfach VWL",
+         "id": "BMIK",
+         "title": "Mikroökonomie 1"
+      },
+      {
+         "category": "Anwendungsfach VWL",
+         "id": "BMIK",
+         "title": "Mikroökonomie 1"
+      },
    ]
  }
