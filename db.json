@@ -54,5 +54,12 @@
          "semester": "WS 14/15",
          "date": "2017-07-07"
         }
+   ],
+   "stmacats": [
+      {
+         "category": "Basismodul",
+         "id": "B-M2",
+         "title": "Mathematik 2"
+      }
    ]
  }
